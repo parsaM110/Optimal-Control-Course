@@ -9,3 +9,4 @@
 
 # Stochastic Control 
 - https://idsc.ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf
+- https://metaphor.ethz.ch/x/2017/fs/401-4938-14L/sc_dec22.pdf
